@@ -1,0 +1,2 @@
+# paper-translator
+arXivの論文を三つ拾ってきて、OpenAIを使って翻訳してSlackに投稿してくれるbot
